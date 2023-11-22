@@ -1,3 +1,5 @@
 <item name="exampleFirstComponent" type="id" />
 <item name="exampleSecondComponent" type="id" />
 <item name="exampleThirdComponent" type="id" />
+<item name="exampleComplexComponent" type="id" />
+<item name="exampleComplexGraphComponent" type="id" />
