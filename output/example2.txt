@@ -1,0 +1,44 @@
+<item name="exampleListComponent1" type="id" />
+<item name="exampleListComponent2" type="id" />
+<item name="exampleListComponent3" type="id" />
+<item name="exampleListComponent4" type="id" />
+<item name="exampleListComponent5" type="id" />
+<item name="exampleListComponent6" type="id" />
+<item name="exampleListComponent7" type="id" />
+<item name="exampleListComponent8" type="id" />
+<item name="exampleListComponent9" type="id" />
+<item name="exampleListComponent10" type="id" />
+<item name="exampleListComponent11" type="id" />
+<item name="exampleListComponent12" type="id" />
+<item name="exampleListComponent13" type="id" />
+<item name="exampleListComponent14" type="id" />
+<item name="exampleListComponent15" type="id" />
+<item name="exampleListComponent16" type="id" />
+<item name="exampleListComponent17" type="id" />
+<item name="exampleListComponent18" type="id" />
+<item name="exampleListComponent19" type="id" />
+<item name="exampleListComponent20" type="id" />
+
+
+listOf(
+R.id.exampleListComponent1, 
+R.id.exampleListComponent2, 
+R.id.exampleListComponent3, 
+R.id.exampleListComponent4, 
+R.id.exampleListComponent5, 
+R.id.exampleListComponent6, 
+R.id.exampleListComponent7, 
+R.id.exampleListComponent8, 
+R.id.exampleListComponent9, 
+R.id.exampleListComponent10, 
+R.id.exampleListComponent11, 
+R.id.exampleListComponent12, 
+R.id.exampleListComponent13, 
+R.id.exampleListComponent14, 
+R.id.exampleListComponent15, 
+R.id.exampleListComponent16, 
+R.id.exampleListComponent17, 
+R.id.exampleListComponent18, 
+R.id.exampleListComponent19, 
+R.id.exampleListComponent20, 
+)
