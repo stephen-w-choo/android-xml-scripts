@@ -28,3 +28,4 @@ def generate_file(output_file_name: str, output_file_contents: list[str]):
     with open(output_file_name, "w") as output_file:
         for line in output_file_contents:
             output_file.write(line + "\n")
+    print(f"Output file generated at: {output_file_name}")
